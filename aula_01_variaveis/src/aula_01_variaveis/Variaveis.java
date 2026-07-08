@@ -28,6 +28,8 @@ public class Variaveis {
 		nome = leia.nextLine();
 		
 		System.out.println("digite" + nome);
+		
+		leia.close();
 	}
 
 }
